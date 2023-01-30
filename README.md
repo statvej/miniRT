@@ -10,7 +10,8 @@ And here are some examples :
 <img width="1461" alt="Screen Shot 2023-01-27 at 7 39 54 PM" src="https://user-images.githubusercontent.com/91738456/215499430-ff132084-4c27-42f4-a814-4aa40884eafa.png">
 <img width="1819" alt="Screen Shot 2023-01-22 at 10 27 21 PM" src="https://user-images.githubusercontent.com/91738456/215499473-0542c636-97ac-4177-b4a9-672ae5e13fd4.png">
 <img width="1546" alt="Screen Shot 2023-01-22 at 7 58 26 PM" src="https://user-images.githubusercontent.com/91738456/215499503-6326ca27-aff9-4597-b77f-4468de9104b3.png">
-<img width="1868" alt="Screen Shot 2023-01-30 at 3 46 43 PM" src="https://user-images.githubusercontent.com/91738456/215511904-3c86d95c-3914-45db-a3d1-7a65419aae45.png">
+<img width="1780" alt="Screen Shot 2023-01-30 at 3 56 09 PM" src="https://user-images.githubusercontent.com/91738456/215512078-1e5d3c45-a534-4418-b12b-f63864c78103.png">
+
 
 # Usage
 Install by cloning the repo
