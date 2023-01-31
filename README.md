@@ -4,7 +4,7 @@
   <img src = "https://user-images.githubusercontent.com/91738456/215802454-136c717c-c15a-4b3a-98db-44d4852b5ca8.png" />
 </p>
  
-42 Ciriculum project MiniRT stands for "Mini Ray-Tracer", which is a program that creates an image by mathemnaticaly simulating rays of light going through every pixel using MLX graphic library.
+42 Ciriculum project MiniRT stands for "Mini Ray-Tracer", which is a program that creates an image by mathemnaticaly simulating rays of light going through every pixel using MLX graphic library. (Grade 125/100)
 
 This technic alows to render realistic looking pictures. This program can generate regular Phong model difusion, recursive reflection AND refraction,
 calculating multi spot and colored lights, custom skydomes, regular and bump textures. All of this with objects like Sphere, Plane, Cylinder, Triangle and Hyperboloid
